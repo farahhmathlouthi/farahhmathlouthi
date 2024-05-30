@@ -3,7 +3,7 @@
 </br>
 <h3 align="center" style="color:#ADD8E6;">🎓 I'm a passionate Big Data and Data Analytics student, diving deep into the world of data to uncover insights and drive decision-making.</h3>
 
-<div align="center">
+<div align="left">
   - 🔭 Current Project: I'm working on an exciting Power BI project, creating interactive dashboards and reports to visualize complex datasets.
   <br>
   - 🚀 Interests: I'm enthusiastic about Azure and cloud computing, exploring how scalable solutions can enhance data processing and storage.
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  - 📫 How to reach me:  mathlouthifarah1@gmail.com
+   📫 My Email:  mathlouthifarah1@gmail.com
 </p>
 
 <h3 align="center" style="color:#d3a4f8;">Connect with me:</h3>
