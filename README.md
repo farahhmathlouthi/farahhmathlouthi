@@ -1,14 +1,14 @@
 
 <h1 align="center" style="color:#ADD8E6;">Hello there👋, I'm Farah</h1>
 </br>
-<h3 align="center" style="color:#ADD8E6;">🎓 I'm a passionate Big Data and Data Analytics student, diving deep into the world of data to uncover insights and drive decision-making.</h3>
+<h3 align="center" style="color:#ADD8E6;">🎓 I'm a passionate computer science engineering student with a previous Big Data and Data Analytics experience, diving deep into the world of data to uncover insights and drive decision-making.</h3>
 
-<div align="left">
-  - 🔭 Current Project: I'm working on an exciting Power BI project, creating interactive dashboards and reports to visualize complex datasets.
+<!-- <div align="left">
+  - 🔭 Current Project: I'm working on an exciting C project, creating interactive dashboards and reports to visualize complex datasets.
   <br>
-  - 🚀 Interests: I'm enthusiastic about Azure and cloud computing, exploring how scalable solutions can enhance data processing and storage.
+  - 🚀 Interests: I'm enthusiastic about AI and Cybersecurity, exploring how scalable solutions can enhance data processing and storage.
   <br>
-  - 🌱 Learning Journey: I'm currently expanding my knowledge in Data Science, with a keen interest in Machine Learning and Deep Learning. I enjoy exploring new algorithms and techniques to build predictive models and intelligent systems.
+  - 🌱 Learning Journey: I'm currently expanding my knowledge in Data Science, with a keen interest in Machine Learning and Deep Learning. I enjoy exploring new algorithms and techniques to build predictive models and intelligent systems. -->
 </div>
 </br>
 <p align="center"> 
