@@ -32,10 +32,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farahhmathlouthi&show_icons=true&theme=dark&title_color=8bd5d0&text_color=ffffff&bg_color=050505&locale=en&layout=compact" alt="farahhmathlouthi" />
-</p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farahhmathlouthi&show_icons=true&theme=dark&text_color=81dfcf&locale=en" alt="farahhmathlouthi" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farahhmathlouthi&theme=dark" alt="farahhmathlouthi" /></p>
